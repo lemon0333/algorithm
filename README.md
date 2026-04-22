@@ -3,6 +3,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 
 
 ### C++
+- 투포인터 : left = 0; right = max.size() 해놓고서 조건에 따라 left, right 옮겨가면 불필요한 인덱스 삽입, 삭제를 안해도되고 보고싶은거를 다 볼 수 있다.
 
 ### SQL
 - ROUND (123,3) 몇자리까지 반올림
