@@ -26,6 +26,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0015-3sum](https://github.com/lemon0333/algorithm/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lemon0333/algorithm/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/lemon0333/algorithm/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/lemon0333/algorithm/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lemon0333/algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/lemon0333/algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/lemon0333/algorithm/tree/master/0643-maximum-average-subarray-i) |
@@ -34,6 +35,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0015-3sum](https://github.com/lemon0333/algorithm/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lemon0333/algorithm/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/lemon0333/algorithm/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lemon0333/algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -50,6 +52,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0015-3sum](https://github.com/lemon0333/algorithm/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lemon0333/algorithm/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/lemon0333/algorithm/tree/master/0075-sort-colors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -62,4 +65,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/lemon0333/algorithm/tree/master/0053-maximum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/lemon0333/algorithm/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/lemon0333/algorithm/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
