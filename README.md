@@ -41,6 +41,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0075-sort-colors](https://github.com/lemon0333/algorithm/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lemon0333/algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/lemon0333/algorithm/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/lemon0333/algorithm/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0053-maximum-subarray](https://github.com/lemon0333/algorithm/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/lemon0333/algorithm/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/lemon0333/algorithm/tree/master/0392-is-subsequence) |
 ## Quicksort
 |  |
 | ------- |
@@ -83,6 +85,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/lemon0333/algorithm/tree/master/0179-largest-number) |
+| [0392-is-subsequence](https://github.com/lemon0333/algorithm/tree/master/0392-is-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/lemon0333/algorithm/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
