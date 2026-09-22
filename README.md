@@ -76,6 +76,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0053-maximum-subarray](https://github.com/lemon0333/algorithm/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/lemon0333/algorithm/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/lemon0333/algorithm/tree/master/0392-is-subsequence) |
+| [0790-domino-and-tromino-tiling](https://github.com/lemon0333/algorithm/tree/master/0790-domino-and-tromino-tiling) |
 ## Quicksort
 |  |
 | ------- |
