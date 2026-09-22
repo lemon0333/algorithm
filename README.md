@@ -74,6 +74,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/lemon0333/algorithm/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/lemon0333/algorithm/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/lemon0333/algorithm/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/lemon0333/algorithm/tree/master/0392-is-subsequence) |
 | [0790-domino-and-tromino-tiling](https://github.com/lemon0333/algorithm/tree/master/0790-domino-and-tromino-tiling) |
@@ -105,4 +106,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/lemon0333/algorithm/tree/master/2390-removing-stars-from-a-string) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/lemon0333/algorithm/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/lemon0333/algorithm/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
