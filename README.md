@@ -35,6 +35,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0238-product-of-array-except-self](https://github.com/lemon0333/algorithm/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/lemon0333/algorithm/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/lemon0333/algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [2352-equal-row-and-column-pairs](https://github.com/lemon0333/algorithm/tree/master/2352-equal-row-and-column-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Simulation
 |  |
 | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/lemon0333/algorithm/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/lemon0333/algorithm/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
@@ -116,4 +118,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lemon0333/algorithm/tree/master/0062-unique-paths) |
+## Hash Table
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/lemon0333/algorithm/tree/master/2352-equal-row-and-column-pairs) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/lemon0333/algorithm/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
