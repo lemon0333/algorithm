@@ -64,6 +64,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0016-3sum-closest](https://github.com/lemon0333/algorithm/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/lemon0333/algorithm/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/lemon0333/algorithm/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/lemon0333/algorithm/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -94,6 +95,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/lemon0333/algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/lemon0333/algorithm/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/lemon0333/algorithm/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/lemon0333/algorithm/tree/master/0392-is-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/lemon0333/algorithm/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
@@ -121,6 +123,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/lemon0333/algorithm/tree/master/0242-valid-anagram) |
 | [2352-equal-row-and-column-pairs](https://github.com/lemon0333/algorithm/tree/master/2352-equal-row-and-column-pairs) |
 ## Matrix
 |  |
