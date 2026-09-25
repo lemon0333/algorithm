@@ -40,6 +40,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0283-move-zeroes](https://github.com/lemon0333/algorithm/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/lemon0333/algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/lemon0333/algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/lemon0333/algorithm/tree/master/0704-binary-search) |
 | [2352-equal-row-and-column-pairs](https://github.com/lemon0333/algorithm/tree/master/2352-equal-row-and-column-pairs) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lemon0333/algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/lemon0333/algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/lemon0333/algorithm/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
