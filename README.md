@@ -41,6 +41,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0347-top-k-frequent-elements](https://github.com/lemon0333/algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/lemon0333/algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/lemon0333/algorithm/tree/master/0704-binary-search) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/lemon0333/algorithm/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/lemon0333/algorithm/tree/master/2352-equal-row-and-column-pairs) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lemon0333/algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/lemon0333/algorithm/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/lemon0333/algorithm/tree/master/0392-is-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/lemon0333/algorithm/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +75,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0179-largest-number](https://github.com/lemon0333/algorithm/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/lemon0333/algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/lemon0333/algorithm/tree/master/0347-top-k-frequent-elements) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/lemon0333/algorithm/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -134,6 +137,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0242-valid-anagram](https://github.com/lemon0333/algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/lemon0333/algorithm/tree/master/0347-top-k-frequent-elements) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/lemon0333/algorithm/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/lemon0333/algorithm/tree/master/2352-equal-row-and-column-pairs) |
 ## Matrix
 |  |
