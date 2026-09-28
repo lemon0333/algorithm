@@ -42,6 +42,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0643-maximum-average-subarray-i](https://github.com/lemon0333/algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/lemon0333/algorithm/tree/master/0704-binary-search) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/lemon0333/algorithm/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/lemon0333/algorithm/tree/master/1732-find-the-highest-altitude) |
 | [2352-equal-row-and-column-pairs](https://github.com/lemon0333/algorithm/tree/master/2352-equal-row-and-column-pairs) |
 ## Two Pointers
 |  |
@@ -81,6 +82,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/lemon0333/algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/lemon0333/algorithm/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/lemon0333/algorithm/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
 | ------- |
