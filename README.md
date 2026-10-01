@@ -14,6 +14,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
         if (a.second != b.second) return a.second > b.second; 
         return a.first < b.first;                              
         });
+- dx dy 테크닉 : BFS에서도 주로 쓰는 int dx[4] = {1,-1,0,0}; 이런식으로 놓는 테크닉 x y 가 좌표평면상에선 x 방향이더라도 dx dy 상에서 y 방향일 수 있음 그거만 확인하고 풀면 됨
 
 ### SQL
 - ROUND (123,3) 몇자리까지 반올림
